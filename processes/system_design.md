@@ -1,3 +1,4 @@
 # Проектирование системы
 
-[Проектирование архитектуры системы](/processes/system_architecture_development.md)
+1. Определите требования к системе
+1. [Проектирование архитектуры системы](/processes/system_architecture_development.md)
