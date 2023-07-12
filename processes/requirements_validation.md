@@ -1,7 +1,9 @@
 # Утерждение требований
-**English: Requirements validatiod**
+**English: Requirements validation**
 
-1. Утвердите документы с требованиями (Review the requirements)
-1. Протестируйте требования (Test the requirements)
-1. Определите критерии приемлемости (Define acceptance criteria)
-1. Смоделируйте требования (Simulate the requirements)
+1. Протестировать требования (Test the requirements);
+1. Рецензировать документы (Review the requirements);
+1. Проверить [прототипы](/words/prototype.md) и улучшить требования;
+1. Предлагать альтернативы;
+1. Убедиться, что все группы заинтересованных лиц считают требования полными и корректными;
+1. Согласовать приоритеты.
